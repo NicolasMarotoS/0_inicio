@@ -4,7 +4,7 @@ Crear un repositorio
 ## Actividades
 * .[1_Sitioweb](https://nicolasmarotos.github.io/1llocweb/)
 * .[2_CMYK](https://nicolasmarotos.github.io/2_CMYK/)
-* .[3_Diseño]()
+* .[3_Diseño](https://nicolasmarotos.github.io/3_Broom/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
