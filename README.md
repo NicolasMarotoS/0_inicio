@@ -8,7 +8,7 @@ Crear un repositorio
 * .[4_Maquetacion](https://nicolasmarotos.github.io/Maquetacion/)
 * .[5_Modulos]()
 * .[6_Tarjetas]()
-* .[7_landing Pages]()
+* .[7_landing Pages](https://nicolasmarotos.github.io/7-startup-landing/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
