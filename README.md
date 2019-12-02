@@ -8,7 +8,7 @@ Crear un repositorio
 * .[4_Maquetacion](https://nicolasmarotos.github.io/Maquetacion/)
 * .[6_Tarjetas](https://nicolasmarotos.github.io/6_Targetas/)
 * .[7_landing Pages](https://nicolasmarotos.github.io/7-startup-landing/)
-  * .[7_1landing Pages(CORECION)]()
+  * .[7_1_landing Pages(CORECION)]()
 * .[8_Practica MOMA](https://nicolasmarotos.github.io/Practica_MOMA/)
 
 ## Pàginas clase
