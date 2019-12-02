@@ -4,7 +4,7 @@ Crear un repositorio
 ## Actividades
 * .[1_Sitioweb](https://nicolasmarotos.github.io/1llocweb/)
 * .[2_CMYK](https://nicolasmarotos.github.io/2_CMYK/)
-* .[3_Diseño](https://nicolasmarotos.github.io/3_Broom/)
+* .[3_Broom](https://nicolasmarotos.github.io/3_Broom/)
 * .[4_Maquetacion](https://nicolasmarotos.github.io/Maquetacion/)
 * .[6_Tarjetas](https://nicolasmarotos.github.io/6_Targetas/)
 * .[7_landing Pages](https://nicolasmarotos.github.io/7-startup-landing/)
