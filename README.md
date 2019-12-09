@@ -9,7 +9,7 @@ Crear un repositorio
 * .[6_Tarjetas](https://nicolasmarotos.github.io/6_Targetas/)
 * .[7_landing Pages](https://nicolasmarotos.github.io/7-startup-landing/)
 * .[8_Practica MOMA](https://nicolasmarotos.github.io/Practica_MOMA/)
-* .[8_Minimalismo]()
+* .[8_Minimalismo](https://nicolasmarotos.github.io/8-grid_template/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
