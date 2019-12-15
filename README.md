@@ -11,6 +11,7 @@ Crear un repositorio
 * .[8_Practica MOMA](https://nicolasmarotos.github.io/Practica_MOMA/)
 * .[8_Minimalismo](https://nicolasmarotos.github.io/8_Mini_Shop/)
 * .[9_Trasform](https://nicolasmarotos.github.io/9_Trasform/)
+* .[10_Madelbyfidelwork](ttps://nicolasmarotos.github.io/Madebyfidelwork/)
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
