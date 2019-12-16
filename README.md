@@ -12,6 +12,9 @@ Crear un repositorio
 * .[8_Minimalismo](https://nicolasmarotos.github.io/8_Mini_Shop/)
 * .[9_Trasform](https://nicolasmarotos.github.io/9_Trasform/)
 * .[10_Madelbyfidelwork](https://nicolasmarotos.github.io/Madebyfidelwork/)
+* .[11_Examen_Dothingsnyc](https://nicolasmarotos.github.io/Dothingsnyc/)
+
+
 
 ## Pàginas clase
 * [Pàginas clase 2GP](https://arquesm.github.io/2GP/)
