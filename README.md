@@ -13,7 +13,7 @@ Crear un repositorio
 * .[9_Trasform](https://nicolasmarotos.github.io/9_Trasform/)
 * .[10_Madelbyfidelwork](https://nicolasmarotos.github.io/Madebyfidelwork/)
 * .[11_Examen_Dothingsnyc](https://nicolasmarotos.github.io/Dothingsnyc/)
-* .[13_Aesop](https://nicolasmarotos.github.io/13_aesop/)
+* .[13_Aesop](https://nicolasmarotos.github.io/13_Aesop/)
 * .[14_Parejas](https://nicolasmarotos.github.io/14_Parejas/)Este es el ejercico que a Alba y a mi nos falla la subida pero en local lo comprobaste y estaba correcto.
 * .[14_Pareja_2](https://nicolasmarotos.github.io/14_menu/)
 
