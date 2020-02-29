@@ -17,7 +17,7 @@ Crear un repositorio
 * .[14_Practica_personal](https://nicolasmarotos.github.io/13-javascript-practica-personal/) Funciona de local y cuando lo subo falla el js
 * .[14_Parejas](https://nicolasmarotos.github.io/14_Parejas/)Este es el ejercico que a Alba y a mi nos falla la subida pero en local lo comprobaste y estaba correcto.
 * .[14_Pareja_2](https://nicolasmarotos.github.io/14_menu/)
-* .[15_Porfolio](https://nicolasmarotos.github.io/16_Porfolio/)
+* .[16_Porfolio](https://nicolasmarotos.github.io/16_Porfolio/)
 
 
 
