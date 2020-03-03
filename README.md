@@ -18,6 +18,7 @@ Crear un repositorio
 * .[14_Parejas](https://nicolasmarotos.github.io/14_Parejas/)Este es el ejercico que a Alba y a mi nos falla la subida pero en local lo comprobaste y estaba correcto.
 * .[14_Pareja_2](https://nicolasmarotos.github.io/14_menu/)
 * .[16_Porfolio](https://nicolasmarotos.github.io/16_Porfolio/)
+* .[17_Examen](https://nicolasmarotos.github.io/17_Examen_NicolasMaroto/)
 
 
 
